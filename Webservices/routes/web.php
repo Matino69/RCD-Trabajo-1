@@ -19,8 +19,8 @@ Route::get('/', function () {
 
 Route::get('Nombres', function () {
     return view('Nombres');
-});
+})->name('nombre');
 
 Route::get('Funom', function () {
     return view('Funom');
-});
+})->name('funcionN');
