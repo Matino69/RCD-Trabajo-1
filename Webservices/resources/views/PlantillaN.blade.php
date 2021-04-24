@@ -11,8 +11,8 @@
     <title>RCD-Trabajo-1</title>
   </head>
   <body>
-    <a href="{{route('trabajo')}}" class="btn btn-primary">TrabajoN°1</a>
-    <a href="{{route('plantilla')}}" class="btn btn-primary">Plantilla</a>
+    <a href="{{route('nombres')}}" class="btn btn-primary">TrabajoN°1</a>
+    <br>
     @yield('Matris')
   
 
