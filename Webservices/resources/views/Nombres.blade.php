@@ -4,7 +4,7 @@
     
 
         <form action="Funom" method="get" class="container">
-        
+            <h1 class="container"> Función Nombre</ h1>
             <br><h2>Ingrese Nombres: <input type="text" id="p" name="p" placeholder="Nombre1 Nombre2" required></h2><br><br>
             <h2>Ingrese Apellidos: <input type="text" name="q" id="q" placeholder="Paterno Materno" required></h2><br><br>
             <h3>Debe incluir un espacio entre cada nombre y cada apellido<br>EJEMPLO: [Pedro Juan][Martinez Rodriguez]</h3>
